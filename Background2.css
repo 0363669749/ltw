@@ -1,0 +1,39 @@
+body{
+	background-color: #8e9ee2; 
+}
+.mauhongdangyeu{
+	margin: 5px;
+	background-color: #dc6c6c;
+	list-style: none;
+	width: 200px;
+}
+.container-upcoming{
+	position: relative;
+	left: 200px
+}
+.container{
+	position: relative;
+	margin: 50px auto 0px auto;
+	display: flex;
+}
+.container-line2{
+	position: relative;
+	margin: 10px;
+	display: flex;
+}
+.container-text{
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+.centerdiv{
+	text-align: center;
+}
+#header_{
+	font-size: 50px;
+}
+input{
+	border-radius: 6px;
+	padding: 10px 16px;
+}
